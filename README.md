@@ -1,1 +1,1 @@
-# Bihar-Engineering-University-Result-Scrapper
+# Bihar-Engineering-University-Result-Scraper
